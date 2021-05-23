@@ -15,3 +15,5 @@ Generate QR Code button will validate input fields and generate QR code based on
 The form will display generate QR code.
 
 Download QR Code button will download the QR code.
+
+!["qrcode"](https://github.com/njosecodes/qrcode_generator/blob/main/QRCode.JPG?raw=true)
