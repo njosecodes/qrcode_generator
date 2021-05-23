@@ -12,6 +12,7 @@ User input form enables user to enter first name, last name, email address, date
 
 Generate QR Code button will validate input fields and generate QR code based on the user inputs and current timestamp, if the user inputs are valid.
 
+!["inputForm"]("https://github.com/njosecodes/qrcode_generator/blob/main/inputform.JPG?raw=true)
 The form will display generate QR code.
 
 Download QR Code button will download the QR code.
